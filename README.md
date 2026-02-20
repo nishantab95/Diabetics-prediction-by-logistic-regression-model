@@ -61,7 +61,7 @@ Environment: Jupyter Notebook / Kaggle
 
 Clone the repository:
 
-git clone https://github.com/your-username/diabetes-prediction-ml.git
+git clone https://github.com/nishantab95/diabetes-prediction-ml.git
 
 
 Install dependencies:
